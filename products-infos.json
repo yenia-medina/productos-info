@@ -6,11 +6,11 @@
         "currency": "USD",
         "soldCount": 14,
         "category": "Autos",
-        "imgSrc": [
-        "img/prod1.jpg",
-        "img/prod1_1.jpg"
+        "imgSrc": "img/prod1.jpg",
+        //"img/prod1.jpg",
+        //"img/prod1_1.jpg"
         
-        ]
+        
     },
     {   "id": 1,
         "name": "Fiat Way",
