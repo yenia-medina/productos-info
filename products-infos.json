@@ -6,8 +6,11 @@
         "currency": "USD",
         "soldCount": 14,
         "category": "Autos",
-        "imgSrc": "img/prod1.jpg",
-        "imgScr": "img/prod1_1.jpg"
+        "imgSrc": [
+            "img/prod3.jpg",
+            "img/prod3_1.jpg"
+            ]
+        
         
         
         
