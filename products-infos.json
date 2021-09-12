@@ -6,12 +6,10 @@
         "currency": "USD",
         "soldCount": 14,
         "category": "Autos",
-        "images": [
+        "imgSrc": [
         "img/prod1.jpg",
-        "img/prod1_1.jpg",
-        "img/prod1_2.jpg",
-        "img/prod1_3.jpg",
-        "img/prod1_4.jpg"
+        "img/prod1_1.jpg"
+        
         ]
     },
     {   "id": 1,
@@ -21,13 +19,10 @@
         "currency": "USD",
         "soldCount": 52,
         "category": "Autos",
-        "images": [
-            "img/prod1.jpg",
-            "img/prod1_1.jpg",
-            "img/prod1_2.jpg",
-            "img/prod1_3.jpg",
-            "img/prod1_4.jpg"
-            ]
+        "images1": [
+            "img/prod2.jpg",
+            "img/prod2_1.jpg"
+        ]
     },
     {
         "id": 2,
@@ -37,12 +32,9 @@
         "currency": "USD",        
         "soldCount": 25,
         "category": "Autos",
-        "images": [
-            "img/prod1.jpg",
-            "img/prod1_1.jpg",
-            "img/prod1_2.jpg",
-            "img/prod1_3.jpg",
-            "img/prod1_4.jpg"
+        "imgSrc": [
+            "img/prod3.jpg",
+            "img/prod3_1.jpg"
             ]
     },
     {
@@ -51,16 +43,12 @@
         "description": "El modelo de auto que se sigue renovando y manteniendo su prestigio en comodidad.",
         "cost": 15200,
         "currency": "USD",
-        "imgSrc": "img/prod4.jpg",
+        
         "soldCount": 17,
         "category": "Autos",
-        "images": [
-            "img/prod1.jpg",
-            "img/prod1_1.jpg",
-            "img/prod1_2.jpg",
-            "img/prod1_3.jpg",
-            "img/prod1_4.jpg"
-            ]
+        "imgSrc": [
+            "img/prod4.jpg",
+            "img/prod4_1.jpg"
 
     }
 ]
